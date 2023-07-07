@@ -1,0 +1,61 @@
+button {
+    background-color: black !important; 
+ 
+} 
+
+
+style {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    box-sizing: border-box !important;
+}
+
+#fila1 {
+
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+
+#fila0 {
+
+    margin-top: 100px !important;
+}
+
+.container {
+    margin: 3px !important;
+}
+
+#textito {
+    text-align: center !important;
+}
+
+
+#col1 {
+
+    text-align: center !important;
+    margin: 10px !important;
+    
+}
+
+#ind {
+
+background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+
+}
+#i1 {
+    background-image: linear-gradient(to top, #d299c2 0%, #fef9d7 100%);
+}
+#i2 { 
+    background-image: linear-gradient(-20deg, #dcb0ed 0%, #99c99c 100%);
+}
+#i3 {
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+
+#DOOM  {
+
+text-align: center !important;
+text-decoration: solid !important;
+
+}
